@@ -20,8 +20,6 @@ Presentation Layer: (MainApplication.java)
 
 Service Layer: (InventoryService, MenuService) – Contains the core business logic
 
-Data Access Object (DAO) Layer: Manages all direct database interactions
-
 Database Schema: The relational schema is carefully designed to handle complex relationships
 
 Transactional Integrity: The system uses database transactions (commit, rollback)
